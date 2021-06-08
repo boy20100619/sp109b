@@ -32,8 +32,9 @@ $* : 代表 targets 所指定的檔案，但不包含副檔名
 ?= 語法 : 若變數未定義，則替它指定新的值。
 := 語法 : make 會將整個 Makefile 展開後，再決定變數的值。
 ```
-
-### 三、其他
+### 三、markdown
+![markdown](note/picture/dKAwW7Y.png)
+### 四、其他
 1. $git checkout -b master :建立並切換branch成master
 2. $git push origin master :以master push檔案回github
 3. $git checkout main :切換回main
