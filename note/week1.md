@@ -34,6 +34,6 @@ $* : 代表 targets 所指定的檔案，但不包含副檔名
 ```
 
 ### 三、其他
-1. git checkout -b master 建立並切換branch成master
-2. git push origin master 以master push檔案回github
-3. git checkout main 切換回main
+1. $git checkout -b master :建立並切換branch成master
+2. $git push origin master :以master push檔案回github
+3. $git checkout main :切換回main
